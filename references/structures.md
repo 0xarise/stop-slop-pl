@@ -117,5 +117,5 @@ Każde zdanie potrzebuje podmiotu, który coś robi.
 | Wzorzec | Problem |
 |---------|---------|
 | Leniwe ekstrema (każdy, zawsze, nigdy, wszyscy, nikt) | Fałszywy autorytet. Użyj konkretu. |
-| Przysłówki-wypełniacze | Pusta emfaza. Pełna lista i zamienniki → [phrases.md](phrases.md), sekcja "Przysłówki-wypełniacze". |
-| Anglicyzmy-buzzwordy | Użyj polskiego odpowiednika. Pełna lista → [phrases.md](phrases.md), sekcja "Żargon korporacyjny". |
+| Przysłówki-wypełniacze (niezwykle, zdecydowanie, niewątpliwie) | Pusta emfaza. Patrz phrases.md. |
+| Anglicyzmy-buzzwordy (mindset, roadmapa, stakeholderzy) | Użyj polskiego odpowiednika. |

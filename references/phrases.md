@@ -77,7 +77,7 @@ Zamien na prosty jezyk.
 | Alignment | Zgodnosc / Wspolne rozumienie |
 | Mindset | Nastawienie / Podejscie |
 
-## Przyslowki-wypelniacze
+## Przysłowki-wypelniacze
 
 Wytnij. Zadnych miekczennikow, wzmacniaczy, zaslon.
 

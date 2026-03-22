@@ -1,6 +1,6 @@
-# Przyklady: przed i po
+# Przykłady: przed i po
 
-## Przyklad 1: Opis firmy consultingowej
+## Przykład 1: Opis firmy consultingowej
 
 ### PRZED (slop)
 
@@ -10,11 +10,11 @@
 
 > Budujemy systemy AI dla firm usługowych. Asystent, który odpowiada na pytania klientów w Twoim tonie. Automatyzacja, która generuje tygodniowy raport z trzech źródeł danych w 5 minut zamiast 4 godzin. Klient dostaje działający system, kod na GitHubie i dokumentację. Po wdrożeniu nie potrzebuje nas do codziennej pracy.
 
-**Co sie zmienilo:** Usuniety otwieracz ("W dzisiejszych czasach"), korporacyjny zargon (kompleksowe, innowacyjne, dedykowane, fundamentalnie), puste obietnice (najwyzsza jakosc, wieloletnie doswiadczenie). Dodane konkrety: co budujemy, ile czasu oszczedza, co klient dostaje.
+**Co się zmieniło:** Usunięty otwieracz ("W dzisiejszych czasach"), korporacyjny żargon (kompleksowe, innowacyjne, dedykowane, fundamentalnie), puste obietnice (najwyższa jakość, wieloletnie doświadczenie). Dodane konkrety: co budujemy, ile czasu oszczędza, co klient dostaje.
 
 ---
 
-## Przyklad 2: Pitch produktowy
+## Przykład 2: Pitch produktowy
 
 ### PRZED (slop)
 
@@ -24,11 +24,11 @@
 
 > Asystent AI, który zna Twoje produkty, ceny i procedury. Klient pyta "ile kosztuje pakiet Premium?", dostaje konkretną odpowiedź z Twojego cennika, nie "proszę skontaktować się z działem sprzedaży". Wdrożenie zajmuje 2-4 tygodnie. Konfiguracja jest w pliku tekstowym, który Twój zespół może edytować bez programisty.
 
-**Co sie zmienilo:** Usunitete negatywne listowanie ("to nie jest X, to nie jest Y, to jest Z"), puste deklaratywne ("potencjal jest ogromny"), przyslowki (niezwykle, zdecydowanie), zarzon (holistycznie, kompleksowy, transparentna). Zastapione konkretnym przykladem uzycia z liczbami.
+**Co się zmieniło:** Usunięte negatywne listowanie ("to nie jest X, to nie jest Y, to jest Z"), puste deklaratywne ("potencjał jest ogromny"), przysłówki (niezwykle, zdecydowanie), żargon (holistycznie, kompleksowy, transparentna). Zastąpione konkretnym przykładem użycia z liczbami.
 
 ---
 
-## Przyklad 3: Otwarcie artykulu blogowego
+## Przykład 3: Otwarcie artykułu blogowego
 
 ### PRZED (slop)
 
@@ -40,11 +40,11 @@
 >
 > To są problemy, które AI rozwiązuje dobrze. Nie wszystkie. Te konkretne.
 
-**Co sie zmienilo:** Usuniety narrator z dystansu, retoryczne pytania, metakomentarz ("przyjrzyjmy sie"), otwieracz ("W erze..."), falszywa sprawczosc ("technologia zmienia reguly gry"), puste stwierdzenia ("fundamentalne pytanie"). Zastapione osobistym doswiadczeniem i konkretnymi problemami klientow z liczbami.
+**Co się zmieniło:** Usunięty narrator z dystansu, retoryczne pytania, metakomentarz ("przyjrzyjmy się"), otwieracz ("W erze..."), fałszywa sprawczość ("technologia zmienia reguły gry"), puste stwierdzenia ("fundamentalne pytanie"). Zastąpione osobistym doświadczeniem i konkretnymi problemami klientów z liczbami.
 
 ---
 
-## Przyklad 4: Opis procesu wspolpracy
+## Przykład 4: Opis procesu współpracy
 
 ### PRZED (slop)
 
@@ -54,4 +54,4 @@
 
 > Zaczynamy od 60-minutowej rozmowy. Mapujesz swoje zadania tygodniowe, ja identyfikuję które z nich nadają się do AI. Dostajesz pisemną ocenę w 48 godzin. Jeśli coś ma sens, piszę specyfikację (3-5 dni). Buduję dopiero po Twojej akceptacji. Testujesz na prawdziwych danych, nie na demie.
 
-**Co sie zmienilo:** Usunitete "warto podkreslic", przyslowek "niezwykle", zarzon (transparentny, zorientowany, holistycznie, dedykowana, implementacja, fundamentalnie), puste frazy (pelna komunikacja, indywidualne podejscie). Zastapione krokami z konkretnymi czasami i formatami.
+**Co się zmieniło:** Usunięte "warto podkreślić", przysłówek "niezwykle", żargon (transparentny, zorientowany, holistycznie, dedykowana, implementacja, fundamentalnie), puste frazy (pełna komunikacja, indywidualne podejście). Zastąpione krokami z konkretnymi czasami i formatami.
